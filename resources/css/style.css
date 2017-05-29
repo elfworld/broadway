@@ -3,6 +3,7 @@ body {
   background-color: white;
   text-align: center;
   color: black;
+  font-size: 14px;
 }
 
 h1, h2, h3, h4 {
@@ -26,9 +27,7 @@ a {
   color: white;
 }
 
-p {
-  font-size: 14px;
-}
+
 
 .menu {
   background-image: url("../../resources/images/the-flatiron-building.png");
